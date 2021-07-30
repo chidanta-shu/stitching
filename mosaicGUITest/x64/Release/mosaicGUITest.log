@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  mosaicGUITest.cpp
+  mosaicGUITestDoc.cpp
+  mosaicGUITestView.cpp
+  OutputWnd.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(F:\stitching\mosaic(1)\x64\Release\mosaicGUITest.exe) 与 Linker 的 OutputFile 属性值(F:\stitching\mosaic(1)\bin\win32\mosaicGUITest.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 444 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  mosaicGUITest.vcxproj -> F:\stitching\mosaic(1)\x64\Release\mosaicGUITest.exe
