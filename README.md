@@ -10,4 +10,6 @@ ORB+GMS方法
 
 ![png](1.png)
 
+基于OpenCV 4.0
+
 ## 此版本非最终代码 如需帮助 请提交新issues
